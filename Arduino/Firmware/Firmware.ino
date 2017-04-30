@@ -9,7 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define SIM800L_SOFTWARESERIAL_PIN_RX	11
+#define SIM800L_SOFTWARESERIAL_PIN_TX	10
 
 // =======================Pin Definitions // ===================================
 
